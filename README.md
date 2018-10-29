@@ -1,5 +1,7 @@
 # Black-Friday-Data-Analysis-Project
-# ===============================================(Overview)================================================================================
+
+# Overview :
+
 Black Friday is an informal name for the day following Thanksgiving Day in the United States, the
 fourth Thursday of November, which has been regarded as the beginning of the
 country's Christmas shopping season since 1952.
@@ -19,9 +21,10 @@ year at this time, portraying hysteria and shortage of stock, creating a state o
 In our project, we conduct a brief study on analysis of sales during Black Friday and make various other
 commercially beneficial predictions which could be used by a retailer to make data driven and profit promising
 decisions. Our dataset is collected from Kaggle (https://www.kaggle.com/sdolezel/black-friday).
-# =================================================(Instructions)==========================================================================
+
 # Instructions for use : 
-1. Extract the blackfriday zip file.
+
+1. Extract the black-friday.rar file in a folder.
 2. Put the model template file in the same folder.
 3. Open python script in an ide or editor.
 4. Run the python script using a python compiler.
